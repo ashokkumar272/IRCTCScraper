@@ -1,0 +1,79 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+Icon
+
+# macOS Finder settings
+._*
+
+# IDEs and editors
+# VSCode
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# JetBrains
+*.iml
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+
+# Python virtual environment
+# Virtual environment directories (commonly named venv, .env, env, .venv, etc.)
+venv/
+.env/
+.venv/
+env/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+
+# pipenv
+Pipfile.lock
+
+# pyenv
+.python-version
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Coverage directory from pytest
+.coverage
+.coverage.*
+.cache
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+
+# PyCharm
+.idea/
+
+# VS Code settings
+.vscode/
+
