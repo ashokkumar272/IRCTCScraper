@@ -1,0 +1,430 @@
+[
+  {
+    "name": "VANDE BHARAT EXP",
+    "number": "22549",
+    "departure_time": "06:05 |",
+    "arrival_time": "10:20 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "AC Chair car (CC)",
+      "Exec. Chair Car (EC)"
+    ]
+  },
+  {
+    "name": "ARUNACHAL EXP",
+    "number": "22411",
+    "departure_time": "23:25 |",
+    "arrival_time": "04:00 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "BIHAR S KRANTI",
+    "number": "12565",
+    "departure_time": "16:00 |",
+    "arrival_time": "20:45 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "GODA GTNR EXP",
+    "number": "15089",
+    "departure_time": "02:40 |",
+    "arrival_time": "07:30 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)"
+    ]
+  },
+  {
+    "name": "SAPT KRANTI EXP",
+    "number": "12557",
+    "departure_time": "18:45 |",
+    "arrival_time": "23:35 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "POORBIYA EXP",
+    "number": "15279",
+    "departure_time": "22:10 |",
+    "arrival_time": "03:00 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "RAPTISAGAR EXP",
+    "number": "12511",
+    "departure_time": "06:40 |",
+    "arrival_time": "11:35 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "GKP HYB SPL",
+    "number": "07076",
+    "departure_time": "08:30 |",
+    "arrival_time": "13:28 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)"
+    ]
+  },
+  {
+    "name": "BJU NDLS SPL",
+    "number": "02563",
+    "departure_time": "15:15 |",
+    "arrival_time": "20:15 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)"
+    ]
+  },
+  {
+    "name": "VAISHALI EXP",
+    "number": "12553",
+    "departure_time": "17:00 |",
+    "arrival_time": "22:00 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "GORAKHDHAM EXP",
+    "number": "12555",
+    "departure_time": "16:20 |",
+    "arrival_time": "21:20 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "CPR GTNR EXP",
+    "number": "15114",
+    "departure_time": "01:20 |",
+    "arrival_time": "06:35 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "DBG NDLS SPL",
+    "number": "02569",
+    "departure_time": "14:30 |",
+    "arrival_time": "19:55 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)"
+    ]
+  },
+  {
+    "name": "AVADH ASSAM EXP",
+    "number": "15909",
+    "departure_time": "23:45 |",
+    "arrival_time": "05:10 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "PBR EXPRESS",
+    "number": "19270",
+    "departure_time": "22:45 |",
+    "arrival_time": "04:15 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "KIR ASR EXPRESS",
+    "number": "15707",
+    "departure_time": "12:25 |",
+    "arrival_time": "17:58 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)"
+    ]
+  },
+  {
+    "name": "GKP LTT SF EXP",
+    "number": "20104",
+    "departure_time": "22:25 |",
+    "arrival_time": "03:58 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)"
+    ]
+  },
+  {
+    "name": "LJN INTERCITY",
+    "number": "15031",
+    "departure_time": "05:45 |",
+    "arrival_time": "11:25 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Second Sitting (2S)",
+      "AC Chair car (CC)"
+    ]
+  },
+  {
+    "name": "KUSHINAGAR EXP",
+    "number": "22537",
+    "departure_time": "17:35 |",
+    "arrival_time": "23:20 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "BJU GWL MAIL",
+    "number": "11124",
+    "departure_time": "04:45 |",
+    "arrival_time": "10:50 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)"
+    ]
+  },
+  {
+    "name": "BAGH EXPRESS",
+    "number": "13019",
+    "departure_time": "18:05 |",
+    "arrival_time": "00:20 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)"
+    ]
+  },
+  {
+    "name": "ANVT HUMSAFAR",
+    "number": "12571",
+    "departure_time": "18:50 |",
+    "arrival_time": "01:15 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "AC 3 Tier (3A)"
+    ]
+  },
+  {
+    "name": "AVADH EXPRESS",
+    "number": "19038",
+    "departure_time": "17:18 |",
+    "arrival_time": "00:03 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "BCY LJN EXPRESS",
+    "number": "15007",
+    "departure_time": "23:05 |",
+    "arrival_time": "06:00 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "GKP ASH EXPRESS",
+    "number": "15069",
+    "departure_time": "03:45 |",
+    "arrival_time": "10:50 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Second Sitting (2S)",
+      "AC Chair car (CC)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)"
+    ]
+  },
+  {
+    "name": "BJU LJN EXP",
+    "number": "15203",
+    "departure_time": "05:15 |",
+    "arrival_time": "12:50 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "GKP GTNR EXP",
+    "number": "15081",
+    "departure_time": "12:20 |",
+    "arrival_time": "20:45 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Second Sitting (2S)",
+      "AC Chair car (CC)"
+    ]
+  },
+  {
+    "name": "GKP PNVL EXP",
+    "number": "15065",
+    "departure_time": "05:05 |",
+    "arrival_time": "13:50 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "name": "GKP PBE EXP",
+    "number": "15009",
+    "departure_time": "22:15 |",
+    "arrival_time": "07:28 |",
+    "from_station": "",
+    "to_station": "",
+    "operating_days": "",
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  }
+]
