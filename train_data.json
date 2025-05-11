@@ -1,15 +1,614 @@
 [
   {
-    "train_name": "MAS LJN EXPRESS",
-    "train_number": "16093",
-    "departure_time": "13:10",
-    "arrival_time": "20:20",
-    "departure_date": "20/05/2025",
-    "arrival_date": "20/05/2025",
-    "from_station_name": "VIJAYAWADA JN - BZA",
-    "from_station_code": "VIJAYAWADA",
-    "to_station_name": "LUCKNOW NE - LJN",
-    "to_station_code": "LUCKNOW",
+    "train_name": "IRCTC TEJAS EXP",
+    "train_number": "82501",
+    "departure_time": "06:10",
+    "arrival_time": "12:35",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "AC Chair car (CC)",
+      "Exec. Chair Car (EC)"
+    ]
+  },
+  {
+    "train_name": "SWARAN SHATABDI",
+    "train_number": "12003",
+    "departure_time": "15:30",
+    "arrival_time": "22:25",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "AC Chair car (CC)",
+      "Exec. Chair Car (EC)"
+    ]
+  },
+  {
+    "train_name": "ANVT HUMSAFAR",
+    "train_number": "12595",
+    "departure_time": "01:25",
+    "arrival_time": "08:25",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "AC 3 Tier (3A)"
+    ]
+  },
+  {
+    "train_name": "MAU ANVT SF EXP",
+    "train_number": "22539",
+    "departure_time": "04:10",
+    "arrival_time": "11:30",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "RAJDHANI EXP",
+    "train_number": "20505",
+    "departure_time": "05:55",
+    "arrival_time": "13:38",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "GORAKHDHAM EXP",
+    "train_number": "12555",
+    "departure_time": "21:30",
+    "arrival_time": "05:15",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "NEELACHAL SF EX",
+    "train_number": "12875",
+    "departure_time": "13:35",
+    "arrival_time": "21:20",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "DBG NDLS SPL",
+    "train_number": "02569",
+    "departure_time": "20:05",
+    "arrival_time": "04:00",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)"
+    ]
+  },
+  {
+    "train_name": "SUHAILDEV SFAST",
+    "train_number": "22419",
+    "departure_time": "23:55",
+    "arrival_time": "07:55",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "SAPT KRANTI EXP",
+    "train_number": "12557",
+    "departure_time": "23:40",
+    "arrival_time": "07:40",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "LKO NDLS AC EXP",
+    "train_number": "12429",
+    "departure_time": "23:30",
+    "arrival_time": "07:30",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "MLDT NDLS EXP",
+    "train_number": "14003",
+    "departure_time": "06:15",
+    "arrival_time": "14:30",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "DLI SUMMER SPL",
+    "train_number": "04023",
+    "departure_time": "00:30",
+    "arrival_time": "08:50",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)"
+    ]
+  },
+  {
+    "train_name": "MFP ANVT SPL",
+    "train_number": "04029",
+    "departure_time": "18:40",
+    "arrival_time": "03:10",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)"
+    ]
+  },
+  {
+    "train_name": "AYODHYA EXPRESS",
+    "train_number": "14205",
+    "departure_time": "19:50",
+    "arrival_time": "04:20",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "SHRAMJEEVI EXP",
+    "train_number": "12391",
+    "departure_time": "20:05",
+    "arrival_time": "04:40",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "GARIB NAWAZ EXP",
+    "train_number": "15715",
+    "departure_time": "04:40",
+    "arrival_time": "13:15",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Second Sitting (2S)",
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "KAIFIYAT EXP",
+    "train_number": "12225",
+    "departure_time": "22:25",
+    "arrival_time": "07:05",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "BJU NDLS SPL",
+    "train_number": "02563",
+    "departure_time": "20:25",
+    "arrival_time": "05:10",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)"
+    ]
+  },
+  {
+    "train_name": "BIHAR S KRANTI",
+    "train_number": "12565",
+    "departure_time": "20:18",
+    "arrival_time": "05:05",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "VAISHALI EXP",
+    "train_number": "12553",
+    "departure_time": "21:41",
+    "arrival_time": "06:30",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "SHC ANVT GR SPL",
+    "train_number": "05577",
+    "departure_time": "15:40",
+    "arrival_time": "00:30",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "AC 3 Tier (3A)"
+    ]
+  },
+  {
+    "train_name": "PADMAVAT EXP",
+    "train_number": "14207",
+    "departure_time": "21:40",
+    "arrival_time": "06:30",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "NJP NDLS EXPRESS",
+    "train_number": "12523",
+    "departure_time": "03:10",
+    "arrival_time": "12:00",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "SLN SBIB SF EXP",
+    "train_number": "20940",
+    "departure_time": "21:10",
+    "arrival_time": "06:05",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)"
+    ]
+  },
+  {
+    "train_name": "LUCKNOW MAIL",
+    "train_number": "12229",
+    "departure_time": "22:00",
+    "arrival_time": "06:55",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "GOMTI EXPRESS",
+    "train_number": "12419",
+    "departure_time": "05:45",
+    "arrival_time": "15:00",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Second Sitting (2S)",
+      "AC Chair car (CC)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "KASHI V NATH EXP",
+    "train_number": "15127",
+    "departure_time": "20:20",
+    "arrival_time": "05:45",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "KIR ASR EXPRESS",
+    "train_number": "15707",
+    "departure_time": "17:23",
+    "arrival_time": "02:55",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)"
+    ]
+  },
+  {
+    "train_name": "DHN CDG GR SPL",
+    "train_number": "03311",
+    "departure_time": "13:55",
+    "arrival_time": "23:30",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "AC 3 Tier (3A)"
+    ]
+  },
+  {
+    "train_name": "SADBHAVANA EXP",
+    "train_number": "14015",
+    "departure_time": "18:15",
+    "arrival_time": "04:45",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Economy (3E)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "AVADH ASSAM EXP",
+    "train_number": "15909",
+    "departure_time": "05:20",
+    "arrival_time": "15:55",
+    "departure_date": "14 May",
+    "arrival_date": "14 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
+    "operating_days": [],
+    "available_classes": [
+      "Sleeper (SL)",
+      "AC 3 Tier (3A)",
+      "AC 2 Tier (2A)",
+      "AC First Class (1A)"
+    ]
+  },
+  {
+    "train_name": "FARAKKA EXP",
+    "train_number": "15743",
+    "departure_time": "18:55",
+    "arrival_time": "06:05",
+    "departure_date": "14 May",
+    "arrival_date": "15 May",
+    "from_station_name": "LUCKNOW NR - LKO",
+    "from_station_code": "LUCKNOW",
+    "to_station_name": "DELHI - DLI",
+    "to_station_code": "NEW DELHI",
     "operating_days": [],
     "available_classes": [
       "Sleeper (SL)",
