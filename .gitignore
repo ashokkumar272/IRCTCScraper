@@ -77,3 +77,5 @@ coverage.xml
 # VS Code settings
 .vscode/
 
+.train_data.json
+

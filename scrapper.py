@@ -145,9 +145,13 @@ def scrape_irctc_trains(from_code, to_code, journey_date_str):
             except:
                 d["arrival_date"] = d["departure_date"]
 
-            d["from_station_name"], d["from_station_code"] = name_from.strip(), code_from.strip()
-            d["to_station_name"],   d["to_station_code"]   = name_to.strip(),   code_to.strip()
-
+            # Parse station names correctly (separating name and code)
+            # Format is typically "STATION NAME - CODE" in the UI
+            
+            d["from_station_name"], d["from_station_code"] = [part.strip() for part in name_from.split("-")]
+          
+            d["to_station_name"], d["to_station_code"] = [part.strip() for part in name_to.split("-")]
+                
             # Operating days
             try:
                 days = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
@@ -157,9 +161,19 @@ def scrape_irctc_trains(from_code, to_code, journey_date_str):
                 d["operating_days"] = []
 
             # Classes
+            # Classes
             try:
                 cls = el.find_elements(By.CSS_SELECTOR, ".pre-avl strong")
-                d["available_classes"] = [c.text.strip() for c in cls]
+                class_codes = []
+                for c in cls:
+                    class_text = c.text.strip()
+                    # Extract just the code in parentheses like (3A), (2A), (1A), (SL), etc.
+                    if "(" in class_text and ")" in class_text:
+                        code = class_text.split("(")[1].split(")")[0].strip()
+                        class_codes.append(code)
+                    else:
+                        class_codes.append(class_text)  # Fallback in case format changes
+                d["available_classes"] = class_codes
             except:
                 d["available_classes"] = []
 
